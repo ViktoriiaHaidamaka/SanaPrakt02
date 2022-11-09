@@ -13,3 +13,5 @@
 - [x] GitHub  <br>
 - [ ] GitLab  <br>
 - [ ] Bitbucket  <br>
+
+**Виконала:** Вікторія Гайдамака
